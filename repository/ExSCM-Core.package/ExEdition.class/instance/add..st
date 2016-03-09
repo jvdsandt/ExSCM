@@ -1,0 +1,4 @@
+adding
+add: aNewObject
+
+	^aNewObject 

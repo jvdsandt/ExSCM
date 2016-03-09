@@ -1,0 +1,4 @@
+resources
+nullVersion
+
+	^ExNullPackageVersion new

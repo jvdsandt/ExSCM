@@ -1,0 +1,15 @@
+{
+	"category" : "ExSCM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"source" ],
+	"name" : "ExMethod",
+	"pools" : [
+		 ],
+	"super" : "ExBlob",
+	"type" : "normal" }

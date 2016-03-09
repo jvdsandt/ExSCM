@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"nullVersion" : "JanVanDeSandt 3/4/2016 15:38" },
+	"instance" : {
+		"asVersion" : "JanVanDeSandt 3/4/2016 15:53",
+		"createInstanceMethod:" : "JanVanDeSandt 3/4/2016 15:23",
+		"createInstanceMethod:protocol:" : "JanVanDeSandt 3/4/2016 15:32",
+		"defaultProtocol" : "JanVanDeSandt 3/4/2016 15:23",
+		"initializeWith:" : "JanVanDeSandt 3/4/2016 16:40" } }

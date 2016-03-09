@@ -1,0 +1,14 @@
+{
+	"category" : "ExSCM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ExBlob",
+	"pools" : [
+		 ],
+	"super" : "ExModelObject",
+	"type" : "normal" }

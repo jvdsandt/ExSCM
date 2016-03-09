@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"newMethod:isMeta:protocol:" : "JanVanDeSandt 3/4/2016 15:16" },
+	"instance" : {
+		"initMethod:isMeta:protocol:" : "JanVanDeSandt 3/4/2016 15:16",
+		"isMeta" : "JanVanDeSandt 3/4/2016 15:14",
+		"method" : "JanVanDeSandt 3/4/2016 15:14",
+		"protocol" : "JanVanDeSandt 3/4/2016 15:14",
+		"selector" : "JanVanDeSandt 3/4/2016 15:45" } }

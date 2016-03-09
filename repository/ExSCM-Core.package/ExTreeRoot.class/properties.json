@@ -1,0 +1,14 @@
+{
+	"category" : "ExSCM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"packages" ],
+	"name" : "ExTreeRoot",
+	"pools" : [
+		 ],
+	"super" : "ExTree",
+	"type" : "normal" }

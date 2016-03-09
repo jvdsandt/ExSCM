@@ -1,0 +1,15 @@
+{
+	"category" : "ExSCM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"methodRefs" ],
+	"name" : "ExBehaviorVersion",
+	"pools" : [
+		 ],
+	"super" : "ExTree",
+	"type" : "normal" }

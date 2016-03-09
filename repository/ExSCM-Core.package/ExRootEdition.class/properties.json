@@ -1,0 +1,14 @@
+{
+	"category" : "ExSCM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"packagesByName" ],
+	"name" : "ExRootEdition",
+	"pools" : [
+		 ],
+	"super" : "ExEdition",
+	"type" : "normal" }

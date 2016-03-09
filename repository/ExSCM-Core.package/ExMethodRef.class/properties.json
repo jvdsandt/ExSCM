@@ -1,0 +1,16 @@
+{
+	"category" : "ExSCM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"protocol",
+		"isMeta",
+		"method" ],
+	"name" : "ExMethodRef",
+	"pools" : [
+		 ],
+	"super" : "ExModelObject",
+	"type" : "normal" }

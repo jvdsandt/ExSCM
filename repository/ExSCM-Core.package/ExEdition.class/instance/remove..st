@@ -1,0 +1,2 @@
+removing
+remove: anObject
